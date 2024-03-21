@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 'Guillaume' of Savoy 🫕, France 🇫🇷 🥖 </h1>
 <h3 align="center">I have a keen interest in the frontend, UI and UX design, and by extension: JavaScript.</h3>
 
-- 🔭 Come see my [portfolio](https://guillaumesimplon.github.io/Guillaume_portfolio/)
+- 🔭 Come see my [portfolio](https://Guiomino.github.io/Guillaume_portfolio/)
 
 - 🌱 I’m currently learning and work **Next.js with Js and Ts**, and, **I'm looking for an 18-month work-study position as an application developer**
 
@@ -65,7 +65,7 @@
 3. [ ] Docker
 
 ## My Github stats 🛈
-![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillaumeSimplon&show_icons=true&theme=radical)
+![Guillaume's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiomino&show_icons=true&theme=radical)
 
 ## Most commonly used languages 🔎
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeSimplon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiomino)
